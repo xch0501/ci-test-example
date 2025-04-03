@@ -59,7 +59,7 @@
   },
   "devDependencies": {},
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/xch0501/ci-test-example.git"
   },
   "bugs": {
